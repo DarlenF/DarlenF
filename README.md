@@ -2,14 +2,15 @@
 <h1 align="center">Hola, soy <a href="#"> Darlene Flores </a> 👋</h1>
 </div>
 <blockquote>
-  https://imgur.com/eAxgMh5
   <img src="https://imgur.com/a/eAxgMh5">
 </blockquote>
+
 <br>
+
 ## About me
 "Every line of code is an opportunity to transform ideas into reality; but the real power is found in solving problems and connecting the world". 
-
 ¡Keep programming and creating without limits!
+
 <br>
 
 ## Open to:
