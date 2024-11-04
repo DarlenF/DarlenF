@@ -1,7 +1,7 @@
 <div align="center">
-<h1 align="center">Hola, soy <a href="https://aristi.dev"> Darlene Flores </a> 👋</h1>
+<h1 align="center">Hola, soy <a href="#"> Darlene Flores </a> 👋</h1>
 </div>
-<img src="https://i.imgur.com/weNbhGZ.png">
+<img src="[https://i.imgur.com/weNbhGZ.png](https://www.canva.com/design/DAGVgO6s-dU/gSKXMfAMEzYNFwmikwFTOQ/view?utm_content=DAGVgO6s-dU&utm_campaign=designshare&utm_medium=link&utm_source=editor)">
 
 ## About me
 "Every line of code is an opportunity to transform ideas into reality; but the real power is found in solving problems and connecting the world". 
