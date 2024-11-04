@@ -2,7 +2,8 @@
 <h1 align="center">Hola, soy <a href="#"> Darlene Flores </a> 👋</h1>
 </div>
 <blockquote>
-  <img src="https://i.imgur.com/a/eAxgMh5.png">
+  https://imgur.com/eAxgMh5
+  <img src="https://imgur.com/a/eAxgMh5">
 </blockquote>
 <br>
 ## About me
