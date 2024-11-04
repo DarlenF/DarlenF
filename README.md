@@ -1,13 +1,10 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="#"> Darlene Flores </a> 👋</h1>
 </div>
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/eAxgMh5" data-context="false" >
-<a href="//imgur.com/a/eAxgMh5"></a>
+<blockquote>
+  <img src="https://i.imgur.com/a/eAxgMh5.png">
 </blockquote>
-<script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
-
 <br>
-
 ## About me
 "Every line of code is an opportunity to transform ideas into reality; but the real power is found in solving problems and connecting the world". 
 
