@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hola, soy <a href="#"> Darlene Flores </a> 👋</h1>
+<h1 align="center">Hi there, I'm <a href="#"> Darlene Flores </a> 👋</h1>
 </div>
 <blockquote>
   <img src="https://imgur.com/a/eAxgMh5">
